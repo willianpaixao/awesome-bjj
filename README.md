@@ -10,3 +10,4 @@
 ### On body conditioning, performance and strenght
 
  * [THENX](https://www.youtube.com/user/TheMiamiTrainer)
+ * [Bodybuilding.com](https://www.youtube.com/channel/UC97k3hlbE-1rVN8y56zyEEA)
