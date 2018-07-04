@@ -4,6 +4,7 @@
 
 * [How to Get Big Arms](https://youtu.be/1TP9BKqk_gs) by ATHLEAN-X
 * [8 Minute Arm Workout](https://youtu.be/8fvT3sYfzLo) by ATHLEAN-X
+* [How to Get Bigger Biceps](https://youtu.be/m3Nsjdx-UY0) by Jeremy Ethier
 
 ### Core abs
 
@@ -15,3 +16,7 @@
 * [How to Build “Boulder Shoulders”](https://youtu.be/1DINSG8mVFs) by ATHLEAN-X
 * [How to Get Bigger Shoulders](https://youtu.be/YFLqFjY3Q5Y) by ATHLEAN-X
 * [Shoulder-Gains Workout](https://youtu.be/6EqI5V8AUp8) by Bodybuilding.com
+
+### Back
+
+* [How to Get a Bigger Back](https://youtu.be/ZqwwV2GIoO0) by ATHLEAN-X
