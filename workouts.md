@@ -20,3 +20,9 @@
 ### Back
 
 * [How to Get a Bigger Back](https://youtu.be/ZqwwV2GIoO0) by ATHLEAN-X
+* [The Truth about Barbell Rows](https://youtu.be/T3N-TO4reLQ) by ATHLEAN-X
+* [The Most Scientific Way to Train Your BACK In 2018](https://youtu.be/12xHxUnBEiI) by Jeff Nippard
+
+### Mixed
+* [The Most Effective Science-Based PUSH Workout Ep.1](https://youtu.be/LwHoNk-sjgs) by Jeff Nippard
+* [The Most Effective Science-Based PULL Workout Ep.2](https://youtu.be/f2JDJV0AnyY) by Jeff Nippard
