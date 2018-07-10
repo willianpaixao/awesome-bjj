@@ -5,6 +5,9 @@
 * [How to Get Big Arms](https://youtu.be/1TP9BKqk_gs) by ATHLEAN-X
 * [8 Minute Arm Workout](https://youtu.be/8fvT3sYfzLo) by ATHLEAN-X
 * [How to Get Bigger Biceps](https://youtu.be/m3Nsjdx-UY0) by Jeremy Ethier
+* [Ripped Forearms Workout](https://youtu.be/Ej4WzltO1DA) by ATHLEAN-X
+* [How To Build Huge Forearms](https://youtu.be/3xHrOLzTLYI) by Jeff Nippard
+* [The Best Science-Based Forearm Workout for Size and Strength](https://youtu.be/0XS0j1Gtobw) by Jeremy Ethier
 
 ### Core abs
 
