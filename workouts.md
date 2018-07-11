@@ -4,10 +4,15 @@
 
 * [How to Get Big Arms](https://youtu.be/1TP9BKqk_gs) by ATHLEAN-X
 * [8 Minute Arm Workout](https://youtu.be/8fvT3sYfzLo) by ATHLEAN-X
-* [Ripped Forearms Workout](https://youtu.be/Ej4WzltO1DA) by ATHLEAN-X
-* [How To Build Huge Forearms](https://youtu.be/3xHrOLzTLYI) by Jeff Nippard
 * [How to Get Bigger Biceps](https://youtu.be/m3Nsjdx-UY0) by Jeremy Ethier
-* [The Best Science-Based Forearm Workout for Size and Strength](https://youtu.be/0XS0j1Gtobw) by Jeremy Ethier
+* Bench Press
+  * [How To Bench Press](https://youtu.be/esQi683XR44) by Bodybuilding.com
+  * [The Official Bench Press Check List](https://youtu.be/vthMCtgVtFw) by ATHLEAN-X
+  * [How to Use Bench Press for Growth](https://youtu.be/vZy3rQOPTi4) by Jeff Nippard
+* Forearm
+  * [Ripped Forearms Workout](https://youtu.be/Ej4WzltO1DA) by ATHLEAN-X
+  * [How To Build Huge Forearms](https://youtu.be/3xHrOLzTLYI) by Jeff Nippard
+  * [The Best Science-Based Forearm Workout for Size and Strength](https://youtu.be/0XS0j1Gtobw) by Jeremy Ethier
 
 ### Core abs
 
@@ -31,3 +36,5 @@
 ### Mixed
 * [The Most Effective Science-Based PUSH Workout Ep.1](https://youtu.be/LwHoNk-sjgs) by Jeff Nippard
 * [The Most Effective Science-Based PULL Workout Ep.2](https://youtu.be/f2JDJV0AnyY) by Jeff Nippard
+* Training for climbing
+  * [Finger Strength](https://youtu.be/BKoYWCdXphQ) by EpicTV
