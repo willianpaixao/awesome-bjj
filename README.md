@@ -10,5 +10,6 @@
 
 ### On body conditioning, performance and strenght
 
+* [Calisthenics](calisthenics.md)
 * [Stretching](stretching.md)
 * [Workouts](workouts.md)
