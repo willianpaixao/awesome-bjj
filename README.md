@@ -6,8 +6,9 @@
   * [BJJ Hacks TV](https://www.youtube.com/user/BJJHacks)
   * [FloGrappling](https://www.youtube.com/channel/UCeOvhU6RbmEj8GKFiIMWxKQ)
   * [IBJJF](https://www.youtube.com/user/ibjjf)
+  * [Stephan Kesting](https://www.youtube.com/user/StephanKesting)
 
 ### On body conditioning, performance and strenght
 
- * [THENX](https://www.youtube.com/user/TheMiamiTrainer)
- * [Bodybuilding.com](https://www.youtube.com/channel/UC97k3hlbE-1rVN8y56zyEEA)
+* [Stretching](stretching.md)
+* [Workouts](workouts.md)
