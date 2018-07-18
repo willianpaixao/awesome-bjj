@@ -14,11 +14,6 @@
   * [How To Build Huge Forearms](https://youtu.be/3xHrOLzTLYI) by Jeff Nippard
   * [The Best Science-Based Forearm Workout for Size and Strength](https://youtu.be/0XS0j1Gtobw) by Jeremy Ethier
 
-### Core abs
-
-* [Best Home Ab Exercise Ever!](https://youtu.be/9JjwnkA3XJs) by ATHLEAN-X
-* [Stop Doing Planks!](https://youtu.be/jYX5FpYZA7c) by ATHLEAN-X
-
 ### Shoulders
 
 * [How to Build “Boulder Shoulders”](https://youtu.be/1DINSG8mVFs) by ATHLEAN-X
@@ -27,11 +22,21 @@
 * [The Best Science-Based Shoulder Workout for Size and Symmetry](https://youtu.be/2Vprklw8cu8) by Jeremy Ethier
 * [The Most Effective Way to Train Shoulders](https://youtu.be/KyTAraGimfE) by Jeff Nippard
 
+### Neck
+
+* [How to Grow a Huge Neck and Traps](https://youtu.be/q7MCjaJ02eQ) by Jeff Nippard
+
 ### Back
 
 * [How to Get a Bigger Back](https://youtu.be/ZqwwV2GIoO0) by ATHLEAN-X
 * [The Truth about Barbell Rows](https://youtu.be/T3N-TO4reLQ) by ATHLEAN-X
 * [The Most Scientific Way to Train Your BACK In 2018](https://youtu.be/12xHxUnBEiI) by Jeff Nippard
+* [3 Exercises To STRENGTHEN Your SCAPULA!](https://youtu.be/2ZiVuI3dHJI) by Tom Merrick
+
+### Core abs
+
+* [Best Home Ab Exercise Ever!](https://youtu.be/9JjwnkA3XJs) by ATHLEAN-X
+* [Stop Doing Planks!](https://youtu.be/jYX5FpYZA7c) by ATHLEAN-X
 
 ### Mixed
 * [The Most Effective Science-Based PUSH Workout Ep.1](https://youtu.be/LwHoNk-sjgs) by Jeff Nippard
