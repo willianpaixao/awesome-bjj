@@ -5,6 +5,8 @@
 * [How to Get Big Arms](https://youtu.be/1TP9BKqk_gs) by ATHLEAN-X
 * [8 Minute Arm Workout](https://youtu.be/8fvT3sYfzLo) by ATHLEAN-X
 * [How to Get Bigger Biceps](https://youtu.be/m3Nsjdx-UY0) by Jeremy Ethier
+* [The Best Science-Based Bicep Workout Part 1](https://youtu.be/1PEKENchiuQ) by Jeremy Ethier
+* [The Best Science-Based Bicep Workout Part 2](https://youtu.be/osUnjgwoh_Y) by Jeremy Ethier
 * Bench Press
   * [How To Bench Press](https://youtu.be/esQi683XR44) by Bodybuilding.com
   * [The Official Bench Press Check List](https://youtu.be/vthMCtgVtFw) by ATHLEAN-X
