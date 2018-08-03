@@ -1,0 +1,7 @@
+baseURL = "https://willianpaixao.gitlab.io/awesome-bjj"
+languageCode = "en-us"
+title = "awesome-bjj"
+theme = "hugo-theme-learn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
