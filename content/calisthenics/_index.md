@@ -1,6 +1,11 @@
-## Calisthenics
++++
+title = "Calisthenics"
+date = "2018-08-03T12:53:22+02:00"
+pre = "<b>2. </b>"
++++
 
 ### On bar
+
 * Pull-up/Chin-up
   * [PUSH UP TUTORIAL](https://youtu.be/yvgp8R0fbWg) by Tom Merrick
   * [Best Pullup Leg Position](https://youtu.be/7KG5UCkNU9U) by ATHLEAN-X
