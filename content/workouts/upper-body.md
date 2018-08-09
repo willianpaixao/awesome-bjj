@@ -44,6 +44,7 @@ categories = [ "workouts" ]
 
 * [Best Home Ab Exercise Ever!](https://youtu.be/9JjwnkA3XJs) by ATHLEAN-X
 * [Stop Doing Planks!](https://youtu.be/jYX5FpYZA7c) by ATHLEAN-X
+* [Abdominal Anatomy & Training Program](https://youtu.be/RVigLkx4Tz0) by Bodybuilding.com
 
 ### Mixed
 * [The Most Effective Science-Based PUSH Workout Ep.1](https://youtu.be/LwHoNk-sjgs) by Jeff Nippard

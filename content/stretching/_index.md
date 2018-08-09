@@ -1,7 +1,8 @@
 +++
 title = "Stretching"
 date = "2018-08-03T12:57:00+02:00"
-pre = "<b>1. </b>"
+pre = "<i class='fa fa-angle-right'></i> "
+weight = 1
 +++
 
 ## Mobility routine
