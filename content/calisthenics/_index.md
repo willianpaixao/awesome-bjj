@@ -12,6 +12,7 @@ weight = 2
   * [Best Pullup Leg Position](https://youtu.be/7KG5UCkNU9U) by ATHLEAN-X
   * [Pullups vs Chinups](https://youtu.be/_XH6TV4HZuc) by ATHLEAN-X
   * [Pullup vs Chinup Grip Width](https://youtu.be/vY9avl0B1I0) by ATHLEAN-X
+  * [Pull Up vs. Chin Up](https://youtu.be/UfhT0OSUU0w) by Calisthenicmovement
 * Front lever
   * [HOW TO FRONT LEVER Step by Step](https://youtu.be/Ev2caBjnwRo) by THENX
   * [HOW TO FRONT LEVER FOR BEGINNERS](https://youtu.be/X3cBwpEjaHs) by Osvaldo Lugones
