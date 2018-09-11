@@ -13,6 +13,9 @@ weight = 2
   * [Pullups vs Chinups](https://youtu.be/_XH6TV4HZuc) by ATHLEAN-X
   * [Pullup vs Chinup Grip Width](https://youtu.be/vY9avl0B1I0) by ATHLEAN-X
   * [Pull Up vs. Chin Up](https://youtu.be/UfhT0OSUU0w) by Calisthenicmovement
+  * [Best Bicep Workout (Calisthenics](https://youtu.be/pPFeUYkmYnA) by THENX
+  * [Best Tricep Workout (Calisthenics)](https://youtu.be/C5WzlgSjw0s) by THENX
+  * [Bodyweight ONLY Arms Workout](https://youtu.be/lr2DoO4xCIk) by Tom Merrick
 * Front lever
   * [HOW TO FRONT LEVER Step by Step](https://youtu.be/Ev2caBjnwRo) by THENX
   * [HOW TO FRONT LEVER FOR BEGINNERS](https://youtu.be/X3cBwpEjaHs) by Osvaldo Lugones

@@ -4,7 +4,7 @@ date: 2018-08-03T11:48:44+02:00
 ---
 
 {{% notice note %}}
-This website is kindly using part of your compupter power to mine some coins as a reward to the author. Thanks for contributing. :)
+This website is kindly using part of your computer power to mine some coins as a reward to the author. Thanks for contributing. :)
 {{% /notice %}}
 
 ### On body conditioning, performance and strength
