@@ -15,6 +15,7 @@ weight = 1
 
 * [How to stretch the inner hamstrings the right way](https://youtu.be/_e3wE_SHlko) by Upright Health
 * [How to stretch your lateral hamstring](https://youtu.be/57QOXwOB5q0) by Upright Health
+* [The BEST Hamstring Stretch](https://youtu.be/sXkv2JutXxo) by Tom Merrick
 * [Improve hip internal rotation](https://youtu.be/JwancB1LTsQ) by Upright Health
 
 * Anterior pelvic tilt

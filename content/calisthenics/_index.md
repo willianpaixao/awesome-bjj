@@ -9,6 +9,8 @@ weight = 2
 
 * Pull-up/Chin-up
   * [PUSH UP TUTORIAL](https://youtu.be/yvgp8R0fbWg) by Tom Merrick
+  * [25 DIFFERENT PULL UP VARIATIONS](https://youtu.be/__Qwi6rjATE) by THENX
+  * [16 Crazy Pullup Variations](https://youtu.be/1vsWC6ao_To) by ATHLEAN-X
   * [Best Pullup Leg Position](https://youtu.be/7KG5UCkNU9U) by ATHLEAN-X
   * [Pullups vs Chinups](https://youtu.be/_XH6TV4HZuc) by ATHLEAN-X
   * [Pullup vs Chinup Grip Width](https://youtu.be/vY9avl0B1I0) by ATHLEAN-X
