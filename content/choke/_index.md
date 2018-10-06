@@ -13,5 +13,11 @@ weight = 1
 
 ### Triangle choke
 
-* [Advanced Triangle Choke Details](https://youtu.be/6UrATWw9ajQ) by Stephan Kesting
-* [A Quick Tweak to Make Your Triangle Choke 3 x Tighter](https://youtu.be/_aoIq9O80Kg) by Stephan Kesting
+1. Technique
+  * [Five Triangle Chokes You Must Know](https://youtu.be/FbXunEbkf8E) by Stephan Kesting
+2. Defense
+  * [How to Escape the Triangle Choke from Guard](https://youtu.be/szAvJFvIzx4) by Stephan Kesting
+3. Refinement
+  * [Advanced Triangle Choke Details](https://youtu.be/6UrATWw9ajQ) by Stephan Kesting
+  * [5 Counters to Your Opponent Standing in Your Triangle Choke](https://youtu.be/0BQpXYOU4FI) by Stephan Kesting
+  * [A Quick Tweak to Make Your Triangle Choke 3 x Tighter](https://youtu.be/_aoIq9O80Kg) by Stephan Kesting
