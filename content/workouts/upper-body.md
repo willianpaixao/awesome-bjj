@@ -39,12 +39,15 @@ categories = [ "workouts" ]
 * [The Truth about Barbell Rows](https://youtu.be/T3N-TO4reLQ) by ATHLEAN-X
 * [The Most Scientific Way to Train Your BACK In 2018](https://youtu.be/12xHxUnBEiI) by Jeff Nippard
 * [3 Exercises To STRENGTHEN Your SCAPULA!](https://youtu.be/2ZiVuI3dHJI) by Tom Merrick
+* [How to Get a Strong Low Back](https://youtu.be/bOJu7xi3l3Q) by ATHLEAN-X
 
 ### Core abs
 
 * [Best Home Ab Exercise Ever!](https://youtu.be/9JjwnkA3XJs) by ATHLEAN-X
 * [Stop Doing Planks!](https://youtu.be/jYX5FpYZA7c) by ATHLEAN-X
 * [Abdominal Anatomy & Training Program](https://youtu.be/RVigLkx4Tz0) by Bodybuilding.com
+* [ABS Unleashed](https://youtu.be/e3NQjlbxkdE) by Calisthenicmovement
+* [Sit Ups Are A Waste of Time](https://youtu.be/2fB1R9uWQbw) by Calisthenicmovement
 
 ### Mixed
 * [The Most Effective Science-Based PUSH Workout Ep.1](https://youtu.be/LwHoNk-sjgs) by Jeff Nippard
