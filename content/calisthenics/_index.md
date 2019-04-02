@@ -5,10 +5,14 @@ pre = "<i class='fa fa-angle-right'></i> "
 weight = 2
 +++
 
+### On the floor
+* Push-up
+  * [The BEST HOME CHEST WORKOUT](https://youtu.be/BkS1-El_WlE) by THENX
+  * [PUSH UP TUTORIAL](https://youtu.be/yvgp8R0fbWg) by Tom Merrick
+
 ### On bar
 
 * Pull-up/Chin-up
-  * [PUSH UP TUTORIAL](https://youtu.be/yvgp8R0fbWg) by Tom Merrick
   * [25 DIFFERENT PULL UP VARIATIONS](https://youtu.be/__Qwi6rjATE) by THENX
   * [16 Crazy Pullup Variations](https://youtu.be/1vsWC6ao_To) by ATHLEAN-X
   * [Best Pullup Leg Position](https://youtu.be/7KG5UCkNU9U) by ATHLEAN-X

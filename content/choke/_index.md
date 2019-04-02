@@ -7,9 +7,11 @@ weight = 1
 
 ### Loop choke
 
-* [5 BRUTAL Loop Chokes You NEED To See](https://youtu.be/9Y6MmSR6LjU) by FloGrappling
-* [SUPER Quick Loop Choke Submission in Japan!](https://youtu.be/QCm5d-wJyU4) by FloGrappling
-* [Alexandre Vieira Shows His Famous Loop Choke](https://youtu.be/ruk0kdlr-Qw) by FloGrappling
+1. Fights
+  * [5 BRUTAL Loop Chokes You NEED To See](https://youtu.be/9Y6MmSR6LjU) by FloGrappling
+  * [SUPER Quick Loop Choke Submission in Japan!](https://youtu.be/QCm5d-wJyU4) by FloGrappling
+2. Technique
+  * [Alexandre Vieira Shows His Famous Loop Choke](https://youtu.be/ruk0kdlr-Qw) by FloGrappling
 
 ### Triangle choke
 
@@ -17,6 +19,7 @@ weight = 1
   * [Five Triangle Chokes You Must Know](https://youtu.be/FbXunEbkf8E) by Stephan Kesting
 2. Defense
   * [How to Escape the Triangle Choke from Guard](https://youtu.be/szAvJFvIzx4) by Stephan Kesting
+  * [The absolute best way to escape a jiujitsu triangle choke](https://youtu.be/9HeP4gea_Uw) by Keenan Cornelius
 3. Refinement
   * [Advanced Triangle Choke Details](https://youtu.be/6UrATWw9ajQ) by Stephan Kesting
   * [5 Counters to Your Opponent Standing in Your Triangle Choke](https://youtu.be/0BQpXYOU4FI) by Stephan Kesting
