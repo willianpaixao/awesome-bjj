@@ -24,3 +24,4 @@ weight = 1
   * [Fixing Anterior Pelvic Tilt](https://youtu.be/tp8KPPffIJw) by Tom Merrick
   * [How to sleep with Anterior Pelvic Tilt](https://youtu.be/0O-pnhwqReE) by Upright Health
   * [Glute stretch: how to relax a tight butt/hip](https://youtu.be/Qby3ZsiidMY) by Upright Health
+  * [Fix Anterior Pelvic Tilt in 10 Minutes/Day](https://youtu.be/2NZMaI-HeNU) by Jeremy Ethier
