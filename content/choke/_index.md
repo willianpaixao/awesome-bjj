@@ -1,5 +1,6 @@
 +++
 title = "Choke"
+tags = [ "choke", "loop chocke", "triangle choke"]
 date = 2018-08-09T11:37:41+02:00
 pre = "<i class='fa fa-bed'></i> "
 weight = 1
@@ -24,3 +25,6 @@ weight = 1
   * [Advanced Triangle Choke Details](https://youtu.be/6UrATWw9ajQ) by Stephan Kesting
   * [5 Counters to Your Opponent Standing in Your Triangle Choke](https://youtu.be/0BQpXYOU4FI) by Stephan Kesting
   * [A Quick Tweak to Make Your Triangle Choke 3 x Tighter](https://youtu.be/_aoIq9O80Kg) by Stephan Kesting
+4. Fights
+  * [Luiza Monteiro vs Ffion Davies / European Championship 2019](https://youtu.be/HS5VB_8_dRA)
+![Luiza Monteiro vs Ffion Davies / European Championship 2019](https://media.giphy.com/media/QYkiSk1EP0fUaIadkH/giphy.gif)
