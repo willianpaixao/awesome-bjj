@@ -3,9 +3,13 @@ title: "awesome-bjj"
 date: 2018-08-03T11:48:44+02:00
 ---
 
-{{% notice note %}}
-This website is kindly using part of your computer power to mine some coins as a reward to the author. Thanks for contributing. :)
-{{% /notice %}}
+### Brazilian Jiu-jitsu techniques
+
+1. [Chokes]({{% relref "choke/_index.md" %}})
+
+### Judo techniques
+
+1. [Holds]({{% relref "hold/_index.md" %}})
 
 ### On body conditioning, performance and strength
 

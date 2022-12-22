@@ -18,3 +18,15 @@ All feedback is appreciated.
 ## Contact
 
 You can easily reach me by mail at willian@ufpa.br or Twitter as @willianpaixao.
+
+## Building locally
+
+1. Make sure you have [Hugo](https://gohugo.io/) installed.
+2. Clone the repository locally including its submodules
+```sh
+$ git clone --recurse-submodules https://gitlab.com/willianpaixao/awesome-bjj.git
+```
+3. After making your changes, test locally
+```sh
+$ hugo server --buildDrafts
+```
