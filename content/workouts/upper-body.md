@@ -22,6 +22,7 @@ categories = [ "workouts" ]
   * [Ripped Forearms Workout](https://youtu.be/Ej4WzltO1DA) by ATHLEAN-X
   * [How To Build Huge Forearms](https://youtu.be/3xHrOLzTLYI) by Jeff Nippard
   * [The Best Science-Based Forearm Workout for Size and Strength](https://youtu.be/0XS0j1Gtobw) by Jeremy Ethier
+  * [How To Get Bigger Forearms FAST](https://youtu.be/P7yDTqe3xnw) by Jeremy Ethier
 
 ### Shoulders
 
@@ -42,6 +43,7 @@ categories = [ "workouts" ]
 * [How to Get a Strong Low Back](https://youtu.be/bOJu7xi3l3Q) by ATHLEAN-X
 * [The Truth about Barbell Rows](https://youtu.be/T3N-TO4reLQ) by ATHLEAN-X
 * [The Most Scientific Way to Train Your BACK In 2018](https://youtu.be/12xHxUnBEiI) by Jeff Nippard
+* [How To Build A V-Tapered Back](https://youtu.be/O94yEoGXtBY) by Jeff Nippard
 * [3 Exercises To STRENGTHEN Your SCAPULA!](https://youtu.be/2ZiVuI3dHJI) by Tom Merrick
 * [The Best Science-Based Back Workout](https://youtu.be/8LJ3Q3Fsrzs) by Jeremy Ethier
 

@@ -6,4 +6,5 @@ weight = 3
 +++
 
 1. [Upper body]({{% relref "upper-body.md" %}})
+1. [Lower body]({{% relref "lower-body.md" %}})
 2. [Cardio]({{% relref "workouts/cardio.md" %}})
