@@ -1,0 +1,13 @@
+baseURL = "https://willianpaixao.gitlab.io/awesome-bjj"
+languageCode = "en-us"
+title = "awesome-bjj"
+
+[params]
+  author.name  = "Willian Paixao"
+  author.email = "willian@ufpa.br"
+
+[module]
+  [[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'
+
+theme = 'hugo-theme-relearn'

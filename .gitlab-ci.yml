@@ -1,19 +1,6 @@
-image: registry.gitlab.com/pages/hugo:latest
+include:
+  - template: Pages/Hugo.gitlab-ci.yml
 
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
-
-test:
-  script:
-  - hugo
-  except:
-  - master
-
-pages:
-  script:
-  - hugo
-  artifacts:
-    paths:
-    - public
-  only:
-  - master
+before_script:
+  - apk add --no-cache go
+  - hugo mod get -u ./...
