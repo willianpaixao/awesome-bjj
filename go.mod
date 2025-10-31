@@ -1,5 +1,5 @@
 module github.com/McShelby/hugo-theme-relearn.git
 
-go 1.21.10
+go 1.24.3
 
-require github.com/McShelby/hugo-theme-relearn v0.0.0-20240912201755-d5a0ee04ad98 // indirect
+require github.com/McShelby/hugo-theme-relearn v0.0.0-20251030215407-c7719785de49 // indirect

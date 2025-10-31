@@ -6,6 +6,7 @@ date: 2018-08-03T11:48:44+02:00
 ### Brazilian Jiu-jitsu techniques
 
 1. [Chokes]({{% relref "choke/_index.md" %}})
+2. [Guards]({{% relref "guards.md" %}})
 
 ### Judo techniques
 
