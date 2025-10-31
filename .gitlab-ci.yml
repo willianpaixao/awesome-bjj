@@ -1,6 +1,22 @@
-include:
-  - template: Pages/Hugo.gitlab-ci.yml
+default:
+  image: "hugomods/hugo:exts"
+  before_script:
+    - apk add --no-cache go
+    - hugo mod get -u ./...
 
-before_script:
-  - apk add --no-cache go
-  - hugo mod get -u ./...
+test:
+  script:
+    - hugo
+  rules:
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+
+create-pages:
+  script:
+    - hugo
+  pages: true
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  environment: production

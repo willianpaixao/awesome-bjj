@@ -8,7 +8,7 @@ weight = 2
 
 ## Half Guard
 ### Deep Half Guard
-1. Technique 
+1. Technique
   * [3 Very Efficient Sweeps From Deep Half Guard](https://youtu.be/ojvH99btFYo) by Bernardo Faria
   * [Deep Half Guard Techniques](https://youtu.be/idxIDIxS99Q) by Knight Jiu-Jitsu
   * [3 Useful Options for Deep Half](https://youtu.be/Y4qzY740Tyg) by Knight Jiu-Jitsu

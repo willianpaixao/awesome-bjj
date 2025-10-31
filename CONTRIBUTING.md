@@ -14,7 +14,7 @@ All feedback is appreciated.
 > NOTE: my intention is not providing all existing links and references,
   rather a small and high quality sources that make faster to read and
   undestand.
-  
+
 ## Contact
 
 You can easily reach me by mail at willian@ufpa.br or Twitter as @willianpaixao.
