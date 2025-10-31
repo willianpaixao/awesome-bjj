@@ -1,0 +1,16 @@
+# Markdownlint configuration for Hugo site
+# https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+
+# MD013: Line length
+MD013: false
+
+# MD033: Inline HTML - allowed for Hugo shortcodes
+MD033: false
+
+# MD041: First line in file should be a top-level heading
+# Disabled because Hugo uses YAML frontmatter
+MD041: false
+
+# MD025: Multiple top-level headings
+# Can be useful for organizing content
+MD025: false

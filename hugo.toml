@@ -2,9 +2,17 @@ baseURL = "https://willianpaixao.gitlab.io/awesome-bjj"
 languageCode = "en-us"
 title = "awesome-bjj"
 
+minify = true
+enableGitInfo = true
+enableRobotsTXT = true
+
 [params]
   author.name  = "Willian Paixao"
   author.email = "willian@ufpa.br"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [module]
   [[module.imports]]

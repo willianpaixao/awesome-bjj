@@ -3,12 +3,28 @@ default:
   before_script:
     - apk add --no-cache go
     - hugo mod get -u ./...
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - /go/pkg/mod
+      - resources/_gen
 
 test:
   script:
-    - hugo
+    - hugo --printPathWarnings --printUnusedTemplates
   rules:
     - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+
+link-check:
+  stage: test
+  image: lycheeverse/lychee:latest
+  before_script: []
+  cache: {}
+  script:
+    - lychee --verbose --no-progress --exclude-mail 'content/**/*.md' 'README.md' 'CONTRIBUTING.md'
+  rules:
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+  allow_failure: true
 
 create-pages:
   script:
