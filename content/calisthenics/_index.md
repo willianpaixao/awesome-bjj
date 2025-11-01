@@ -2,7 +2,7 @@
 title = "Calisthenics"
 date = "2018-08-03T12:53:22+02:00"
 pre = "<i class='fa fa-angle-right'></i> "
-weight = 2
+weight = 3
 +++
 
 ### On the floor

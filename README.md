@@ -16,6 +16,7 @@ The source files are written in [Markdown](https://en.wikipedia.org/wiki/Markdow
 #### Theme
 
 Currently using [Hugo Relearn Theme](https://github.com/McShelby/hugo-theme-relearn).
+Documentation is available at [mcshelby.github.io/hugo-theme-relearn](https://mcshelby.github.io/hugo-theme-relearn).
 
 ## License
 
